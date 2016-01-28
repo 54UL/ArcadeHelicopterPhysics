@@ -1,0 +1,27 @@
+/// <summary>
+/// Saul Aceves Montes 29/12/2015
+/// Helicopter Control Proyect v0.9 GH
+/// 
+/// -LICENCIA (ZLIB)
+/// 
+/// Derechos de autor (c) <2015> <Saul Aceves> 
+/// Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. En ningún caso los autores ser declarados responsables de los daños y perjuicios derivados de la utilización de este software.
+/// Se concede permiso para que cualquiera pueda utilizar este software para cualquier propósito, incluyendo aplicaciones comerciales, y para alterarlo y redistribuirlo libremente, sujeto a las siguientes restricciones:
+/// 1. El origen de este software no debe ser tergiversado; no hay que decir que usted escribió el software original. Si utiliza este software en un producto, un reconocimiento en la documentación del producto sería apreciada pero no se requiere.
+//  2. Las versiones alteradas de la fuente deben estar claramente identificados como tales, y no deben ser tergiversados ??como el software original.
+//  3. Este aviso no puede ser suprimida o alterada de cualquier distribución de código fuente.
+/// 
+/// -Contacto
+/// 54ulxd@gmail.com 
+/// </summary>
+
+//Info
+A todos los contribuyentes en la modificacion del proyecto incluirse en los apartados donde va el <nombre del autor+ su nombre,etc...>
+-Detalles del proyecto
+el proyecto cuenta con algunos flags en cada script("TODO:") que indica los fallos o cosas pendientes mas relevantes del proyecto
+Por el momento no esta optimizado y cuenta con una gran cantidad de errores, "algo asi como el queso chedar, lleno de hoyos..."
+
+
+//Archivos de 3eros
+el audio y modelos son propiedad de Unity 3D technologies y  de los siguientes autores
+<inserte nombre aqui del creador de contenido multimedia 3D/2D/AUDIO que no se haya puesto>
